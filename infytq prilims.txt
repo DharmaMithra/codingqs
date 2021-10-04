@@ -1,0 +1,13 @@
+1 on stack
+1 on queue
+2 to 3 on linkedlists
+1 or 2 from exception handling
+2 conceptual questions(to determine type of datastructures)
+2 logic based(bubble sort)
+2 functions
+2 on tuples,lists,dicts,sets
+1 on preformance testing
+6 on OOPs(basics,repeated asked questions in infytq)
+
+
+
